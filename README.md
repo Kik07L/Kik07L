@@ -1,4 +1,13 @@
 ### Hi there 👋
+![GitHub followers](https://img.shields.io/github/followers/Kik07L?color=7289da&logo=GitHub&style=for-the-badge)
+![Github profile views](https://komarev.com/ghpvc/?username=Kik07L&label=Profile%20views&color=7289da&style=for-the-badge)
+
+
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatiemsz&show_icons=true&locale=en&layout=compact&theme=radical" alt="thatiemsz" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatiemsz&show_icons=true&locale=en&theme=radical" alt="thatiemsz" />
+</p>
 
 <!--
 **Kik07L/Kik07L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
