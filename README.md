@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Kik07L?color=7289da&logo=GitHub&style=for-the-badge)
 ![Github profile views](https://komarev.com/ghpvc/?username=Kik07L&label=Profile%20views&color=7289da&style=for-the-badge)
 
-:flag_fr: **Kik c'est plus simple**
+ 🇫🇷  **Kik c'est plus simple**
 *French dev but speek english verry well.. i think...*
 </Vtuber:0>
 **https://twitch.tv/kik07L:**
