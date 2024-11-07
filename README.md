@@ -6,7 +6,7 @@
 **https://kittychan.xyz/**
 # **Lovz japan**
 Dev js/web
-**Top 20k OSU!** 
+**"Living Wikipedia"** 
 Loves Audiovisual & Hardware
 
 *cool snake thenks ThaTiemsz* 
